@@ -1,0 +1,244 @@
+[08/Oct/2019 12:27:14] INFO [django.utils.autoreload:597] Watching for file changes with StatReloader
+[08/Oct/2019 12:27:22] INFO [django.server:154] "GET / HTTP/1.1" 200 10615
+[08/Oct/2019 12:27:22] INFO [django.server:154] "GET /static/css/style.css HTTP/1.1" 200 204
+[08/Oct/2019 12:27:22] INFO [django.server:154] "GET /static/js/bootstrap.js HTTP/1.1" 200 131637
+[08/Oct/2019 12:27:22] INFO [django.server:154] "GET /static/css/images/background.jpg HTTP/1.1" 200 620888
+[08/Oct/2019 12:30:44] WARNING [django.request:228] Not Found: /boardEx/list/
+[08/Oct/2019 12:30:44] WARNING [django.server:154] "GET /boardEx/list/ HTTP/1.1" 404 2688
+[08/Oct/2019 12:30:51] INFO [django.server:154] "GET /ordersystem/postal/ HTTP/1.1" 200 11187
+[08/Oct/2019 12:30:54] INFO [django.server:154] "GET /ordersystem/orderwrite/ HTTP/1.1" 200 6929
+[08/Oct/2019 12:31:10] INFO [django.server:154] "POST /ordersystem/orderwrite/ HTTP/1.1" 200 6939
+[08/Oct/2019 12:31:12] INFO [django.server:154] "POST /ordersystem/orderwrite/ HTTP/1.1" 200 6939
+[08/Oct/2019 12:31:13] INFO [django.server:154] "POST /ordersystem/orderwrite/ HTTP/1.1" 200 6939
+[08/Oct/2019 12:31:14] INFO [django.server:154] "POST /ordersystem/orderwrite/ HTTP/1.1" 200 6939
+[08/Oct/2019 12:31:18] INFO [django.server:154] "GET /ordersystem/goodslist HTTP/1.1" 301 0
+[08/Oct/2019 12:31:18] INFO [django.server:154] "GET /ordersystem/goodslist/ HTTP/1.1" 200 6430
+[08/Oct/2019 12:31:22] WARNING [django.request:228] Not Found: /boardEx/list/
+[08/Oct/2019 12:31:22] WARNING [django.server:154] "GET /boardEx/list/ HTTP/1.1" 404 2688
+[08/Oct/2019 12:31:24] INFO [django.server:154] "GET /ordersystem/orderwrite/ HTTP/1.1" 200 6929
+[08/Oct/2019 12:31:25] INFO [django.server:154] "GET /signup HTTP/1.1" 301 0
+[08/Oct/2019 12:31:25] INFO [django.server:154] "GET /signup/ HTTP/1.1" 200 6704
+[08/Oct/2019 12:31:26] INFO [django.server:154] "GET /ordersystem/postal/ HTTP/1.1" 200 11187
+[08/Oct/2019 12:31:26] INFO [django.server:154] "GET /signup/ HTTP/1.1" 200 6704
+[08/Oct/2019 12:31:28] INFO [django.server:154] "GET /ordersystem/postal/ HTTP/1.1" 200 11187
+[08/Oct/2019 15:21:04] INFO [django.server:154] "GET /index/ HTTP/1.1" 200 10615
+[08/Oct/2019 15:21:06] INFO [django.server:154] "GET /login/login/ HTTP/1.1" 200 6293
+[08/Oct/2019 15:21:11] INFO [django.server:154] "POST /login/login/ HTTP/1.1" 302 0
+[08/Oct/2019 15:21:11] INFO [django.server:154] "GET /index/ HTTP/1.1" 200 10622
+[08/Oct/2019 15:21:14] INFO [django.server:154] "GET /signup/ HTTP/1.1" 200 6711
+[08/Oct/2019 15:21:15] INFO [django.server:154] "GET /ordersystem/postal/ HTTP/1.1" 200 11194
+[08/Oct/2019 15:21:16] INFO [django.server:154] "GET /ordersystem/orderwrite/ HTTP/1.1" 200 6936
+[08/Oct/2019 15:21:16] WARNING [django.request:228] Not Found: /boardEx/list/
+[08/Oct/2019 15:21:16] WARNING [django.server:154] "GET /boardEx/list/ HTTP/1.1" 404 2688
+[08/Oct/2019 15:21:18] INFO [django.server:154] "GET /ordersystem/goodslist HTTP/1.1" 301 0
+[08/Oct/2019 15:21:18] INFO [django.server:154] "GET /ordersystem/goodslist/ HTTP/1.1" 200 6437
+[08/Oct/2019 15:21:19] WARNING [django.request:228] Not Found: /polls/index/
+[08/Oct/2019 15:21:19] WARNING [django.server:154] "GET /polls/index/ HTTP/1.1" 404 2685
+[08/Oct/2019 15:21:23] INFO [django.server:154] "GET /ordersystem/orderwrite HTTP/1.1" 301 0
+[08/Oct/2019 15:21:23] INFO [django.server:154] "GET /ordersystem/orderwrite/ HTTP/1.1" 200 6936
+[08/Oct/2019 15:21:34] INFO [django.server:154] "POST /ordersystem/orderwrite/ HTTP/1.1" 200 6946
+[08/Oct/2019 15:21:36] INFO [django.server:154] "GET /ordersystem/orderlist HTTP/1.1" 301 0
+[08/Oct/2019 15:21:36] INFO [django.server:154] "GET /ordersystem/orderlist/ HTTP/1.1" 200 7323
+[08/Oct/2019 15:24:12] INFO [django.server:154] "GET /ordersystem/postal/ HTTP/1.1" 200 11194
+[08/Oct/2019 15:24:37] INFO [django.server:154] "GET /signup/ HTTP/1.1" 200 6711
+[08/Oct/2019 15:24:39] INFO [django.server:154] "GET /login/logout/ HTTP/1.1" 200 5751
+[08/Oct/2019 15:25:31] INFO [django.server:154] "GET /login/login/ HTTP/1.1" 200 6293
+[08/Oct/2019 15:25:35] INFO [django.server:154] "POST /login/login/ HTTP/1.1" 302 0
+[08/Oct/2019 15:25:35] INFO [django.server:154] "GET /index/ HTTP/1.1" 200 10622
+[08/Oct/2019 15:25:38] INFO [django.server:154] "GET /signup/ HTTP/1.1" 200 6711
+[08/Oct/2019 15:25:42] INFO [django.server:154] "GET /ordersystem/postal/ HTTP/1.1" 200 11194
+[08/Oct/2019 15:26:24] INFO [django.server:154] "GET /ordersystem/postal/ HTTP/1.1" 200 11194
+[08/Oct/2019 15:26:58] INFO [django.server:154] "GET /ordersystem/orderwrite/ HTTP/1.1" 200 6936
+[08/Oct/2019 15:27:00] INFO [django.server:154] "GET /ordersystem/postal/ HTTP/1.1" 200 11194
+[08/Oct/2019 15:27:24] INFO [django.server:154] "GET /index/ HTTP/1.1" 200 10622
+[08/Oct/2019 15:27:26] INFO [django.server:154] "GET /signup/ HTTP/1.1" 200 6711
+[08/Oct/2019 15:27:28] INFO [django.server:154] "GET /ordersystem/postal/ HTTP/1.1" 200 11194
+[08/Oct/2019 15:27:37] INFO [django.server:154] "GET /ordersystem/postal/ HTTP/1.1" 200 11194
+[08/Oct/2019 15:27:51] INFO [django.server:154] "GET /index/ HTTP/1.1" 200 10622
+[08/Oct/2019 15:27:53] INFO [django.server:154] "GET /ordersystem/postal/ HTTP/1.1" 200 11194
+[08/Oct/2019 15:28:18] INFO [django.server:154] "POST /ordersystem/postal/ HTTP/1.1" 200 11194
+[08/Oct/2019 15:28:19] INFO [django.server:154] "GET /ordersystem/postresult/ HTTP/1.1" 200 1454
+[08/Oct/2019 15:28:26] INFO [django.server:154] "GET /index/ HTTP/1.1" 200 10622
+[08/Oct/2019 15:28:28] INFO [django.server:154] "GET /ordersystem/orderwrite/ HTTP/1.1" 200 6936
+[08/Oct/2019 15:28:36] INFO [django.server:154] "POST /ordersystem/orderwrite/ HTTP/1.1" 200 6946
+[08/Oct/2019 15:28:40] INFO [django.server:154] "GET /ordersystem/orderlist/ HTTP/1.1" 200 7544
+[08/Oct/2019 15:28:55] WARNING [django.request:228] Not Found: /boardEx/list/
+[08/Oct/2019 15:28:55] WARNING [django.server:154] "GET /boardEx/list/ HTTP/1.1" 404 2688
+[08/Oct/2019 15:28:57] INFO [django.server:154] "GET /ordersystem/goodslist/ HTTP/1.1" 200 6437
+[08/Oct/2019 15:37:00] INFO [django.server:154] "GET /ordersystem/postal/ HTTP/1.1" 200 11194
+[08/Oct/2019 15:37:01] INFO [django.server:154] "GET /ordersystem/orderwrite/ HTTP/1.1" 200 6936
+[08/Oct/2019 15:37:02] WARNING [django.request:228] Not Found: /boardEx/list/
+[08/Oct/2019 15:37:02] WARNING [django.server:154] "GET /boardEx/list/ HTTP/1.1" 404 2688
+[08/Oct/2019 15:37:04] INFO [django.server:154] "GET /signup/ HTTP/1.1" 200 6711
+[08/Oct/2019 15:37:04] INFO [django.server:154] "GET /index/ HTTP/1.1" 200 10622
+[08/Oct/2019 15:37:12] INFO [django.server:154] "GET /admin/ HTTP/1.1" 200 6075
+[08/Oct/2019 15:37:12] INFO [django.server:154] "GET /static/admin/css/dashboard.css HTTP/1.1" 200 412
+[08/Oct/2019 15:37:13] INFO [django.server:154] "GET /admin/ HTTP/1.1" 200 6075
+[08/Oct/2019 15:37:13] INFO [django.server:154] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+[08/Oct/2019 15:37:13] INFO [django.server:154] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+[08/Oct/2019 15:37:13] INFO [django.server:154] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+[08/Oct/2019 15:37:32] WARNING [django.request:228] Not Found: /goodslist
+[08/Oct/2019 15:37:32] WARNING [django.server:154] "GET /goodslist HTTP/1.1" 404 2676
+[08/Oct/2019 15:37:40] WARNING [django.request:228] Not Found: /orderlist
+[08/Oct/2019 15:37:40] WARNING [django.server:154] "GET /orderlist HTTP/1.1" 404 2676
+[08/Oct/2019 15:38:19] INFO [django.server:154] "GET /admin/ HTTP/1.1" 200 6075
+[08/Oct/2019 15:38:41] INFO [django.server:154] "GET /signup/ HTTP/1.1" 200 6711
+[08/Oct/2019 15:39:18] INFO [django.server:154] "GET /index/ HTTP/1.1" 200 10622
+[08/Oct/2019 15:39:25] INFO [django.server:154] "GET /signup/ HTTP/1.1" 200 6711
+[08/Oct/2019 15:39:52] INFO [django.server:154] "GET /ordersystem/postal/ HTTP/1.1" 200 11194
+[08/Oct/2019 15:40:17] INFO [django.server:154] "GET /ordersystem/orderwrite/ HTTP/1.1" 200 6936
+[08/Oct/2019 15:40:22] INFO [django.server:154] "GET /ordersystem/postal/ HTTP/1.1" 200 11194
+[08/Oct/2019 15:40:24] INFO [django.server:154] "GET /ordersystem/orderwrite/ HTTP/1.1" 200 6936
+[08/Oct/2019 15:40:26] WARNING [django.request:228] Not Found: /boardEx/list/
+[08/Oct/2019 15:40:26] WARNING [django.server:154] "GET /boardEx/list/ HTTP/1.1" 404 2688
+[08/Oct/2019 15:40:29] INFO [django.server:154] "GET /ordersystem/orderwrite/ HTTP/1.1" 200 6936
+[08/Oct/2019 15:40:30] WARNING [django.request:228] Not Found: /boardEx/list/
+[08/Oct/2019 15:40:30] WARNING [django.server:154] "GET /boardEx/list/ HTTP/1.1" 404 2688
+[08/Oct/2019 15:40:32] INFO [django.server:154] "GET /ordersystem/orderwrite/ HTTP/1.1" 200 6936
+[08/Oct/2019 15:40:33] INFO [django.server:154] "GET /ordersystem/postal/ HTTP/1.1" 200 11194
+[08/Oct/2019 15:40:34] INFO [django.server:154] "GET /ordersystem/orderwrite/ HTTP/1.1" 200 6936
+[08/Oct/2019 15:40:35] INFO [django.server:154] "GET /ordersystem/postal/ HTTP/1.1" 200 11194
+[08/Oct/2019 15:40:59] INFO [django.server:154] "GET /ordersystem/postal/ HTTP/1.1" 200 11194
+[08/Oct/2019 15:41:20] INFO [django.server:154] "GET /ordersystem/orderwrite/ HTTP/1.1" 200 6936
+[08/Oct/2019 15:41:23] INFO [django.server:154] "GET /ordersystem/postal/ HTTP/1.1" 200 11194
+[08/Oct/2019 15:41:23] INFO [django.server:154] "GET /signup/ HTTP/1.1" 200 6711
+[08/Oct/2019 15:41:24] INFO [django.server:154] "GET /ordersystem/orderwrite/ HTTP/1.1" 200 6936
+[08/Oct/2019 15:53:50] WARNING [django.request:228] Not Found: /ordersystem
+[08/Oct/2019 15:53:50] WARNING [django.server:154] "GET /ordersystem HTTP/1.1" 404 2682
+[10/Oct/2019 09:51:29] INFO [django.utils.autoreload:597] Watching for file changes with StatReloader
+[10/Oct/2019 09:52:18] INFO [django.server:154] "GET / HTTP/1.1" 200 10622
+[10/Oct/2019 09:52:18] INFO [django.server:154] "GET /static/js/bootstrap.js HTTP/1.1" 304 0
+[10/Oct/2019 09:52:18] INFO [django.server:154] "GET /static/css/style.css HTTP/1.1" 304 0
+[10/Oct/2019 09:52:18] INFO [django.server:154] "GET /static/css/boost.css HTTP/1.1" 200 720
+[10/Oct/2019 09:52:18] INFO [django.server:154] "GET /static/css/bootstrap.css HTTP/1.1" 200 192348
+[10/Oct/2019 09:52:18] INFO [django.server:154] "GET /static/css/sungs.css HTTP/1.1" 200 680
+[10/Oct/2019 09:52:19] INFO [django.server:154] "GET /static/images/CLang.png HTTP/1.1" 200 132013
+[10/Oct/2019 09:52:19] INFO [django.server:154] "GET /static/images/LOGOBIG.png HTTP/1.1" 200 617334
+[10/Oct/2019 09:52:19] INFO [django.server:154] "GET /static/js/bootstrap.min.js HTTP/1.1" 200 58072
+[10/Oct/2019 09:52:19] INFO [django.server:154] "GET /static/images/java.png HTTP/1.1" 200 118606
+[10/Oct/2019 09:52:19] INFO [django.server:154] "GET /static/css/images/background.jpg HTTP/1.1" 304 0
+[10/Oct/2019 09:52:19] INFO [django.server:154] "GET /static/images/android.png HTTP/1.1" 200 6315
+[10/Oct/2019 09:52:19] INFO [django.server:154] "GET /static/images/jumbotronBackground2.jpg HTTP/1.1" 200 595284
+[10/Oct/2019 09:52:19] WARNING [django.request:228] Not Found: /favicon.ico
+[10/Oct/2019 09:52:19] WARNING [django.server:154] "GET /favicon.ico HTTP/1.1" 404 2682
+[10/Oct/2019 09:52:23] INFO [django.server:154] "GET /login/logout/ HTTP/1.1" 200 5751
+[10/Oct/2019 09:52:37] INFO [django.server:154] "GET /ordersystem/postal/ HTTP/1.1" 200 11187
+[10/Oct/2019 09:52:39] INFO [django.server:154] "GET /ordersystem/orderwrite/ HTTP/1.1" 200 6929
+[10/Oct/2019 09:52:41] INFO [django.server:154] "GET /signup/ HTTP/1.1" 200 6704
+[10/Oct/2019 09:52:42] INFO [django.server:154] "GET /ordersystem/orderwrite/ HTTP/1.1" 200 6929
+[10/Oct/2019 09:52:43] WARNING [django.request:228] Not Found: /boardEx/list/
+[10/Oct/2019 09:52:43] WARNING [django.server:154] "GET /boardEx/list/ HTTP/1.1" 404 2688
+[10/Oct/2019 09:53:39] INFO [django.server:154] "GET / HTTP/1.1" 200 10615
+[10/Oct/2019 09:54:07] INFO [django.server:154] "GET / HTTP/1.1" 200 10615
+[10/Oct/2019 10:12:04] INFO [django.utils.autoreload:597] Watching for file changes with StatReloader
+[10/Oct/2019 10:12:05] INFO [django.server:154] "GET / HTTP/1.1" 200 10615
+[10/Oct/2019 10:13:19] INFO [django.server:154] "GET /index/ HTTP/1.1" 200 10615
+[10/Oct/2019 11:30:15] INFO [django.server:154] "GET /signup/ HTTP/1.1" 200 6704
+[10/Oct/2019 11:30:17] INFO [django.server:154] "GET /ordersystem/postal/ HTTP/1.1" 200 11187
+[10/Oct/2019 11:30:19] INFO [django.server:154] "GET /signup/ HTTP/1.1" 200 6704
+[10/Oct/2019 11:30:21] INFO [django.server:154] "GET /login/login/ HTTP/1.1" 200 6293
+[10/Oct/2019 11:30:27] INFO [django.server:154] "POST /login/login/ HTTP/1.1" 200 6511
+[10/Oct/2019 11:30:32] INFO [django.server:154] "POST /login/login/ HTTP/1.1" 302 0
+[10/Oct/2019 11:30:32] INFO [django.server:154] "GET /index/ HTTP/1.1" 200 10622
+[10/Oct/2019 11:30:36] INFO [django.server:154] "GET /signup/ HTTP/1.1" 200 6711
+[10/Oct/2019 11:30:42] INFO [django.server:154] "POST /signup/ HTTP/1.1" 302 0
+[10/Oct/2019 11:30:42] INFO [django.server:154] "GET /signup_done HTTP/1.1" 200 5629
+[10/Oct/2019 11:30:45] INFO [django.server:154] "GET /signup/ HTTP/1.1" 200 6711
+[10/Oct/2019 11:30:46] INFO [django.server:154] "GET /ordersystem/postal/ HTTP/1.1" 200 11194
+[10/Oct/2019 11:30:53] INFO [django.server:154] "GET /ordersystem/orderwrite/ HTTP/1.1" 200 6936
+[10/Oct/2019 11:30:54] WARNING [django.request:228] Not Found: /boardEx/list/
+[10/Oct/2019 11:30:54] WARNING [django.server:154] "GET /boardEx/list/ HTTP/1.1" 404 2688
+[10/Oct/2019 11:30:56] INFO [django.server:154] "GET /ordersystem/goodslist/ HTTP/1.1" 200 6437
+[10/Oct/2019 11:31:04] WARNING [django.request:228] Not Found: /polls/index/
+[10/Oct/2019 11:31:04] WARNING [django.server:154] "GET /polls/index/ HTTP/1.1" 404 2685
+[10/Oct/2019 11:31:05] INFO [django.server:154] "GET /ordersystem/goodslist/ HTTP/1.1" 200 6437
+[10/Oct/2019 11:31:06] WARNING [django.request:228] Not Found: /boardEx/list/
+[10/Oct/2019 11:31:06] WARNING [django.server:154] "GET /boardEx/list/ HTTP/1.1" 404 2688
+[10/Oct/2019 11:31:08] INFO [django.server:154] "GET /ordersystem/orderwrite/ HTTP/1.1" 200 6936
+[10/Oct/2019 11:51:41] INFO [django.server:154] "GET /ordersystem/goodslist/ HTTP/1.1" 200 6437
+[10/Oct/2019 11:51:42] INFO [django.server:154] "GET /ordersystem/goodslist/ HTTP/1.1" 200 6437
+[10/Oct/2019 11:51:42] INFO [django.server:154] "GET /ordersystem/goodslist/ HTTP/1.1" 200 6437
+[10/Oct/2019 11:51:42] INFO [django.server:154] "GET /ordersystem/goodslist/ HTTP/1.1" 200 6437
+[10/Oct/2019 11:51:43] INFO [django.server:154] "GET /ordersystem/goodslist/ HTTP/1.1" 200 6437
+[10/Oct/2019 11:52:10] INFO [django.utils.autoreload:597] Watching for file changes with StatReloader
+[10/Oct/2019 11:52:25] INFO [django.server:154] "GET / HTTP/1.1" 200 10622
+[10/Oct/2019 11:52:27] INFO [django.server:154] "GET / HTTP/1.1" 200 10622
+[10/Oct/2019 11:52:28] INFO [django.server:154] "GET / HTTP/1.1" 200 10622
+[10/Oct/2019 11:54:08] INFO [django.server:154] "GET / HTTP/1.1" 200 10622
+[10/Oct/2019 11:54:12] INFO [django.server:154] "GET / HTTP/1.1" 200 10622
+[10/Oct/2019 11:54:13] INFO [django.server:154] "GET / HTTP/1.1" 200 10622
+[10/Oct/2019 11:54:13] INFO [django.server:154] "GET / HTTP/1.1" 200 10622
+[10/Oct/2019 11:54:13] INFO [django.server:154] "GET / HTTP/1.1" 200 10622
+[10/Oct/2019 11:54:13] INFO [django.server:154] "GET / HTTP/1.1" 200 10622
+[10/Oct/2019 11:54:14] INFO [django.server:154] "GET / HTTP/1.1" 200 10622
+[10/Oct/2019 11:54:14] INFO [django.server:154] "GET / HTTP/1.1" 200 10622
+[10/Oct/2019 11:54:14] INFO [django.server:154] "GET / HTTP/1.1" 200 10622
+[10/Oct/2019 11:54:14] INFO [django.server:154] "GET / HTTP/1.1" 200 10622
+[10/Oct/2019 11:54:14] INFO [django.server:154] "GET / HTTP/1.1" 200 10622
+[10/Oct/2019 13:37:55] INFO [django.server:154] "GET / HTTP/1.1" 200 10622
+[14/Oct/2019 12:23:29] INFO [django.utils.autoreload:597] Watching for file changes with StatReloader
+[14/Oct/2019 12:23:39] INFO [django.server:154] "GET / HTTP/1.1" 200 10622
+[14/Oct/2019 12:23:39] INFO [django.server:154] "GET /static/js/bootstrap.js HTTP/1.1" 304 0
+[14/Oct/2019 12:23:39] INFO [django.server:154] "GET /static/css/boost.css HTTP/1.1" 304 0
+[14/Oct/2019 12:23:39] INFO [django.server:154] "GET /static/css/bootstrap.css HTTP/1.1" 304 0
+[14/Oct/2019 12:23:39] INFO [django.server:154] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 0
+[14/Oct/2019 12:23:39] INFO [django.server:154] "GET /static/css/style.css HTTP/1.1" 304 0
+[14/Oct/2019 12:23:39] INFO [django.server:154] "GET /static/css/sungs.css HTTP/1.1" 304 0
+[14/Oct/2019 12:23:39] INFO [django.server:154] "GET /static/images/LOGOBIG.png HTTP/1.1" 304 0
+[14/Oct/2019 12:23:39] INFO [django.server:154] "GET /static/images/CLang.png HTTP/1.1" 304 0
+[14/Oct/2019 12:23:39] INFO [django.server:154] "GET /static/images/java.png HTTP/1.1" 304 0
+[14/Oct/2019 12:23:39] INFO [django.server:154] "GET /static/images/android.png HTTP/1.1" 304 0
+[14/Oct/2019 12:23:39] INFO [django.server:154] "GET /static/css/images/background.jpg HTTP/1.1" 304 0
+[14/Oct/2019 12:23:39] INFO [django.server:154] "GET /static/images/jumbotronBackground2.jpg HTTP/1.1" 304 0
+[14/Oct/2019 12:23:40] WARNING [django.request:228] Not Found: /favicon.ico
+[14/Oct/2019 12:23:40] WARNING [django.server:154] "GET /favicon.ico HTTP/1.1" 404 2682
+[14/Oct/2019 12:24:02] INFO [django.server:154] "GET /index/ HTTP/1.1" 200 10622
+[14/Oct/2019 12:24:05] INFO [django.server:154] "GET /index/ HTTP/1.1" 200 10622
+[14/Oct/2019 12:24:05] INFO [django.server:154] "GET /ordersystem/postal/ HTTP/1.1" 200 11194
+[14/Oct/2019 12:24:06] INFO [django.server:154] "GET /signup/ HTTP/1.1" 200 6711
+[14/Oct/2019 12:24:06] INFO [django.server:154] "GET /signup/ HTTP/1.1" 200 6711
+[14/Oct/2019 12:24:08] INFO [django.server:154] "GET /ordersystem/postal/ HTTP/1.1" 200 11194
+[14/Oct/2019 12:24:09] INFO [django.server:154] "GET /ordersystem/orderwrite/ HTTP/1.1" 200 6936
+[14/Oct/2019 12:24:10] WARNING [django.request:228] Not Found: /boardEx/list/
+[14/Oct/2019 12:24:10] WARNING [django.server:154] "GET /boardEx/list/ HTTP/1.1" 404 2688
+[14/Oct/2019 12:24:59] INFO [django.server:154] "GET /login/logout/ HTTP/1.1" 200 5751
+[14/Oct/2019 12:25:00] INFO [django.server:154] "GET /login/login/ HTTP/1.1" 200 6293
+[14/Oct/2019 12:25:03] INFO [django.server:154] "GET /login/login/ HTTP/1.1" 200 6293
+[14/Oct/2019 12:25:05] INFO [django.server:154] "GET /index/ HTTP/1.1" 200 10615
+[14/Oct/2019 12:25:06] INFO [django.server:154] "GET /login/login/ HTTP/1.1" 200 6293
+[14/Oct/2019 12:25:10] INFO [django.server:154] "POST /login/login/ HTTP/1.1" 302 0
+[14/Oct/2019 12:25:10] INFO [django.server:154] "GET /index/ HTTP/1.1" 200 10622
+[14/Oct/2019 12:26:19] INFO [django.server:154] "GET /login/logout/ HTTP/1.1" 200 5751
+[14/Oct/2019 12:26:21] INFO [django.server:154] "GET /index/ HTTP/1.1" 200 10615
+[14/Oct/2019 12:26:28] INFO [django.server:154] "GET /login/login/ HTTP/1.1" 200 6293
+[14/Oct/2019 12:26:32] INFO [django.server:154] "POST /login/login/ HTTP/1.1" 302 0
+[14/Oct/2019 12:26:32] INFO [django.server:154] "GET /index/ HTTP/1.1" 200 10622
+[14/Oct/2019 12:26:34] INFO [django.server:154] "GET /signup/ HTTP/1.1" 200 6711
+[14/Oct/2019 12:26:36] INFO [django.server:154] "GET /ordersystem/postal/ HTTP/1.1" 200 11194
+[14/Oct/2019 12:27:10] INFO [django.server:154] "POST /ordersystem/postal/ HTTP/1.1" 200 11194
+[14/Oct/2019 12:27:11] INFO [django.server:154] "GET /ordersystem/postresult/ HTTP/1.1" 200 1705
+[14/Oct/2019 12:27:17] INFO [django.server:154] "GET /index/ HTTP/1.1" 200 10622
+[14/Oct/2019 12:27:20] INFO [django.server:154] "GET /ordersystem/orderwrite/ HTTP/1.1" 200 6978
+[14/Oct/2019 12:27:34] INFO [django.server:154] "POST /ordersystem/orderwrite/ HTTP/1.1" 200 6988
+[14/Oct/2019 12:27:39] INFO [django.server:154] "GET /ordersystem/orderlist HTTP/1.1" 301 0
+[14/Oct/2019 12:27:40] INFO [django.server:154] "GET /ordersystem/orderlist/ HTTP/1.1" 200 7770
+[14/Oct/2019 12:27:59] WARNING [django.request:228] Not Found: /boardEx/list/
+[14/Oct/2019 12:27:59] WARNING [django.server:154] "GET /boardEx/list/ HTTP/1.1" 404 2688
+[14/Oct/2019 12:28:02] INFO [django.server:154] "GET /ordersystem/goodslist/ HTTP/1.1" 200 6437
+[16/Oct/2019 11:06:27] INFO [django.utils.autoreload:597] Watching for file changes with StatReloader
+[16/Oct/2019 16:52:52] INFO [django.server:154] "GET / HTTP/1.1" 200 10622
+[16/Oct/2019 16:52:53] INFO [django.server:154] "GET /static/css/boost.css HTTP/1.1" 304 0
+[16/Oct/2019 16:52:53] INFO [django.server:154] "GET /static/css/bootstrap.css HTTP/1.1" 304 0
+[16/Oct/2019 16:52:53] INFO [django.server:154] "GET /static/css/style.css HTTP/1.1" 304 0
+[16/Oct/2019 16:52:53] INFO [django.server:154] "GET /static/js/bootstrap.js HTTP/1.1" 304 0
+[16/Oct/2019 16:52:53] INFO [django.server:154] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 0
+[16/Oct/2019 16:52:53] INFO [django.server:154] "GET /static/css/sungs.css HTTP/1.1" 304 0
+[16/Oct/2019 16:52:53] INFO [django.server:154] "GET /static/images/LOGOBIG.png HTTP/1.1" 304 0
+[16/Oct/2019 16:52:53] INFO [django.server:154] "GET /static/images/CLang.png HTTP/1.1" 304 0
+[16/Oct/2019 16:52:53] INFO [django.server:154] "GET /static/images/java.png HTTP/1.1" 304 0
+[16/Oct/2019 16:52:53] INFO [django.server:154] "GET /static/images/android.png HTTP/1.1" 304 0
+[16/Oct/2019 16:52:53] INFO [django.server:154] "GET /static/css/images/background.jpg HTTP/1.1" 304 0
+[16/Oct/2019 16:52:53] INFO [django.server:154] "GET /static/images/jumbotronBackground2.jpg HTTP/1.1" 304 0
+[16/Oct/2019 16:52:53] WARNING [django.request:228] Not Found: /favicon.ico
+[16/Oct/2019 16:52:53] WARNING [django.server:154] "GET /favicon.ico HTTP/1.1" 404 2682
+[16/Oct/2019 16:53:02] INFO [django.server:154] "GET / HTTP/1.1" 200 10622
